@@ -32,7 +32,7 @@ export const Heros = () => {
                         <div className="ml-2 mt-5">
                             <h1>Our collection is always changing</h1>
                             <p className="lead">
-                                Try to check daily as our collectio changing
+                                Try to check daily as our collection changing
                             </p>
                         </div>
                     </div>
